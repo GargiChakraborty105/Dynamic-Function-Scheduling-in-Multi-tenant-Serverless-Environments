@@ -25,12 +25,18 @@ Graph Representation and Dependency Modeling: Utilizing advanced graph technique
 
 # Technologies and Tools Used
 Programming Language: Python
+
 Machine Learning Libraries: TensorFlow, Keras, Graph Neural Networks (GNNs)
+
 Cloud Infrastructure: Virtual Machines (VMs), Serverless Clusters
+
 Other Tools: Cloud Computing Architecture for managing and scaling serverless VMs
 
 # Project Structure
-/notebooks/: Contains Jupyter notebooks with code for training and testing GNN models on VM availability data.
-/models/: Pre-trained models and scripts for building GNNs.
-/data/: Sample datasets for availability prediction, VM metrics, and time-based analysis.
-/scripts/: Python scripts for deploying the models and integrating them into a cloud-based architecture.
+## /notebooks/: Contains Jupyter notebooks with code for training and testing GNN models on VM availability data.
+
+## /models/: Pre-trained models and scripts for building GNNs.
+
+## /data/: Sample datasets for availability prediction, VM metrics, and time-based analysis.
+
+## /scripts/: Python scripts for deploying the models and integrating them into a cloud-based architecture.
